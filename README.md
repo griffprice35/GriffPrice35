@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @griffprice35
 - 👀 I’m interested in Computer Engineering & Computer Science
-- 🌱 I’m currently studying C++ and Computer Engineering at Virginia Tech
+- 🌱 I’m currently studying C++ and Verilog at Virginia Tech
 - 📫 How to reach me: griffprice35@gmail.com
 
 <!---
